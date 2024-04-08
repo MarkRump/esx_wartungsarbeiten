@@ -1,5 +1,5 @@
 description 'ESX Maintenance Mode'
-
+author 'mark_2502'
 version '1.0'
 
 server_scripts {
